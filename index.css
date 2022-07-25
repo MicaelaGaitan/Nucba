@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+   
+}
+
+#navegador{
+    font-weight: 500;
+    padding-right: 50px;
+    
+}
+
+header {
+    display: flex;
+    height: 100px;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    box-shadow: 6px 0.1px 4px 0.1px;
+}
